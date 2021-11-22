@@ -78,7 +78,7 @@
 
 - 시스템 구성도
 
-  ![image](https://user-images.githubusercontent.com/59987117/122686271-26c8b500-d24b-11eb-870e-0c81f9c30a4b.png)
+//  ![image](https://user-images.githubusercontent.com/59987117/122686271-26c8b500-d24b-11eb-870e-0c81f9c30a4b.png)
 
 - ERD
 
