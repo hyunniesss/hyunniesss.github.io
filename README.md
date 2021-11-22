@@ -78,7 +78,7 @@
 
 - 시스템 구성도
 
-//  ![image](https://user-images.githubusercontent.com/59987117/122686271-26c8b500-d24b-11eb-870e-0c81f9c30a4b.png)
+ ![image](https://user-images.githubusercontent.com/59987117/122686271-26c8b500-d24b-11eb-870e-0c81f9c30a4b.png)
 
 - ERD
 
@@ -108,7 +108,7 @@
 
 - 시스템 구성도
 
-  ![image](https://user-images.githubusercontent.com/59987117/122686304-4233c000-d24b-11eb-8567-bdf078c4d601.png)
+  \\<!-- ![image](https://user-images.githubusercontent.com/59987117/122686304-4233c000-d24b-11eb-8567-bdf078c4d601.png) -->
 
 - 소스 코드 : https://github.com/hyunniesss/PJT2_Meomullae
 
